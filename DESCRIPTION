@@ -1,0 +1,14 @@
+Package: SpectraTools
+Type: Package
+Title: Dealing with spectra
+Version: 0.2.12
+Author: Yandong Yin, Zhiwei Zhou
+Maintainer: Yandong Yin <yinyandong@sioc.ac.cn>
+Description: This package processes MS spectra data including parsing spectra recorded in
+  different types of files, searching and matching MSMS spectra.
+License: GPL
+Encoding: UTF-8
+RoxygenNote: 7.2.0
+Imports: dplyr, tidyr, tibble
+NeedsCompilation: no
+Packaged: 2022-08-13 08:19:53 UTC; zhouzw
